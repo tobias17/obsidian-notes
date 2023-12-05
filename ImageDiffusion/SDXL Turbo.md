@@ -3,4 +3,3 @@ Adversarial Diffusion Distillation (2023-11-28)
 
 -  Applies forward diffusion process to $x_0$ via $x_s = \alpha_s x_0 + \sigma_s ϵ$
 -  Enforces [[Zero-Terminal SNR]]
--  
